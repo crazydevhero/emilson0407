@@ -18,4 +18,4 @@ To create the project wonderfully and make your dream come true, please get in t
 ####
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
+[![Twitter: Emilson](https://img.shields.io/twitter/follow/emison0407.svg?style=social)](https://twitter.com/emilson0407)
